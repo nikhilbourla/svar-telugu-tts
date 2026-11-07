@@ -30,3 +30,15 @@ Released: November 6, 2026.
 Email: nikhilroy860@gmail.com
 
 For model architecture, dataset acknowledgments, limitations, and detailed usage instructions, please visit the [Hugging Face Model Card](https://huggingface.co/copycat1/svar-telugu-tts).
+
+## License
+
+The Svar inference source code is licensed under the **PolyForm Noncommercial License 1.0.0**.
+
+You may use, modify, and distribute this software for non-commercial purposes under the terms of the license.
+
+Commercial use requires separate permission from the copyright holder.
+
+See the [LICENSE](LICENSE) file for the complete license terms.
+
+**Model Weights:** Licensed separately under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
