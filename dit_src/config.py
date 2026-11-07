@@ -1,0 +1,10 @@
+class Config:
+    VOCAB_SIZE = 201
+    PAD_TOKEN = 200
+    LATENT_DIM = 128
+    EMBED_DIM = 384
+    NUM_HEADS = 8
+    NUM_LAYERS = 8
+    SPEAKER_SIZE = 2
+    EMOTION_SIZE = 1
+    MAX_LATENT_FRAMES = 1100

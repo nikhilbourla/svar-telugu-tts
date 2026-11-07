@@ -1,0 +1,5 @@
+numpy
+soundfile
+sentencepiece
+safetensors
+transformers==5.22.1
